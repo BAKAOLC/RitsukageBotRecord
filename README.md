@@ -1,6 +1,6 @@
 # Ritsukage Bot Record  
 
-[小律影 Bot 服务协议](https://github.com/BAKAOLC/RitsukageBotRecord/edit/master/LICENSE.md)
+[小律影 Bot 服务协议](https://github.com/BAKAOLC/RitsukageBotRecord/blob/master/LICENSE.md)
 
 > 用于储存 小律影Bot 的图包数据  
 > 需要增加新图、图包的请提交[Issue](https://github.com/BAKAOLC/RitsukageBotRecord/issues)或[Pull requests](https://github.com/BAKAOLC/RitsukageBotRecord/pulls)  
@@ -14,3 +14,4 @@
 > 3. 添加用户提醒功能  
 > 4. 添加卡牌需求指令  
 > 5. 完善服务协议，修改功能代码执行  
+> 6. 方舟抽卡模拟添加当前UP池模拟  
