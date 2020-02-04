@@ -9,3 +9,4 @@
 > 也可以在[Issue](https://github.com/BAKAOLC/RitsukageBotRecord/issues)中进行提交  
 
 ### TODO:  
+> 1. 移除原有逻辑，重新架构小律影bot  
