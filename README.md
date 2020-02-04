@@ -9,5 +9,4 @@
 > 也可以在[Issue](https://github.com/BAKAOLC/RitsukageBotRecord/issues)中进行提交  
 
 ### TODO:  
-> 1. 完善服务协议，修改功能代码执行  
-> 2. 群内订阅推送加入优先级设置，可对每个用户进行分别设置  
+> 1. 群内订阅推送加入优先级设置，可对每个用户进行分别设置  
